@@ -1,0 +1,1 @@
+print("physic professor stupid")
